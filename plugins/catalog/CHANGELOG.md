@@ -1,5 +1,11 @@
 # @backstage/plugin-catalog
 
+## 0.6.1
+
+### Patch Changes
+
+- 2a942cc9e: invert logic for when to show type column
+
 ## 0.6.0
 
 ### Minor Changes

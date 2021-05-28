@@ -1,5 +1,14 @@
 # @backstage/create-app
 
+## 0.3.24
+
+### Patch Changes
+
+- Updated dependencies [f430b6c6f]
+- Updated dependencies [2a942cc9e]
+  - @backstage/plugin-scaffolder@0.9.7
+  - @backstage/plugin-catalog@0.6.1
+
 ## 0.3.23
 
 ### Patch Changes

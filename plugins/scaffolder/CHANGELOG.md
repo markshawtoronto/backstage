@@ -1,5 +1,11 @@
 # @backstage/plugin-scaffolder
 
+## 0.9.7
+
+### Patch Changes
+
+- f430b6c6f: Don't merge with previous from state on form changes.
+
 ## 0.9.6
 
 ### Patch Changes
